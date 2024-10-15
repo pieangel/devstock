@@ -1,0 +1,1213 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DevExpress.StockMarketTrader.Wpf/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "6.0.0",
+          "DevExpress.Charts.Designer.v22.1": "22.1.4.0",
+          "DevExpress.Charts.Designer.v22.1.resources": "22.1.0.0",
+          "DevExpress.Charts.v22.1.Core": "22.1.4.0",
+          "DevExpress.Data.Desktop.v22.1": "22.1.4.0",
+          "DevExpress.Data.v22.1": "22.1.4.0",
+          "DevExpress.Data.v22.1.resources": "22.1.0.0",
+          "DevExpress.Mvvm.v22.1.DataModel.resources": "22.1.0.0",
+          "DevExpress.Mvvm.v22.1": "22.1.4.0",
+          "DevExpress.Printing.v22.1.Core": "22.1.4.0",
+          "DevExpress.Printing.v22.1.Core.resources": "22.1.0.0",
+          "DevExpress.Xpf.Charts.v22.1": "22.1.4.0",
+          "DevExpress.Xpf.Charts.v22.1.resources": "22.1.0.0",
+          "DevExpress.Xpf.Core.v22.1": "22.1.4.0",
+          "DevExpress.Xpf.Core.v22.1.resources": "22.1.0.0",
+          "DevExpress.Xpf.Docking.v22.1": "22.1.4.0",
+          "DevExpress.Xpf.Docking.v22.1.resources": "22.1.0.0",
+          "DevExpress.Xpf.Grid.v22.1.Core": "22.1.4.0",
+          "DevExpress.Xpf.Grid.v22.1.Core.resources": "22.1.0.0",
+          "DevExpress.Xpf.Grid.v22.1": "22.1.4.0",
+          "DevExpress.Xpf.Grid.v22.1.Extensions": "22.1.4.0",
+          "DevExpress.Xpf.Layout.v22.1.Core": "22.1.4.0",
+          "DevExpress.Xpf.LayoutControl.v22.1": "22.1.4.0",
+          "DevExpress.Xpf.LayoutControl.v22.1.resources": "22.1.0.0",
+          "DevExpress.Xpf.PropertyGrid.v22.1": "22.1.4.0",
+          "DevExpress.Xpf.PropertyGrid.v22.1.resources": "22.1.0.0",
+          "DevExpress.Xpf.Themes.Office2019Colorful.v22.1": "22.1.4.0",
+          "DevExpress.Xpf.Themes.VS2019Dark.v22.1": "22.1.4.0",
+          "DevExpress.Xpf.Themes.Win11Light.v22.1": "22.1.4.0",
+          "DevExpress.XtraReports.VSPackage.2022": "24.1.3.0",
+          "DevExpress.XtraReports.VSPackage": "24.1.3.0",
+          "StockSharp.Xaml.Charting": "5.0.0.0"
+        },
+        "runtime": {
+          "DevExpress.StockMarketTrader.Wpf.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/6.0.0": {},
+      "System.Drawing.Common/6.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "6.0.0"
+        }
+      },
+      "DevExpress.Charts.Designer.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Charts.Designer.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Charts.Designer.v22.1.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Charts.Designer.v22.1.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Charts.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Charts.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Data.Desktop.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Data.Desktop.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Data.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Data.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Data.v22.1.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Data.v22.1.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Mvvm.v22.1.DataModel.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Mvvm.v22.1.DataModel.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Mvvm.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Mvvm.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Printing.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Printing.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Printing.v22.1.Core.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Printing.v22.1.Core.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Charts.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Charts.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Charts.v22.1.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Xpf.Charts.v22.1.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Core.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Core.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Core.v22.1.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Xpf.Core.v22.1.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Docking.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Docking.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Docking.v22.1.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Xpf.Docking.v22.1.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Grid.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Grid.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Grid.v22.1.Core.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Xpf.Grid.v22.1.Core.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Grid.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Grid.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Grid.v22.1.Extensions/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Grid.v22.1.Extensions.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Layout.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Layout.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.LayoutControl.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.LayoutControl.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.LayoutControl.v22.1.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Xpf.LayoutControl.v22.1.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.PropertyGrid.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.PropertyGrid.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.PropertyGrid.v22.1.resources/22.1.0.0": {
+        "runtime": {
+          "DevExpress.Xpf.PropertyGrid.v22.1.resources.dll": {
+            "assemblyVersion": "22.1.0.0",
+            "fileVersion": "22.1.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Themes.Office2019Colorful.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Themes.Office2019Colorful.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Themes.VS2019Dark.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Themes.VS2019Dark.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Themes.Win11Light.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Themes.Win11Light.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.XtraReports.VSPackage.2022/24.1.3.0": {
+        "runtime": {
+          "DevExpress.XtraReports.VSPackage.2022.dll": {
+            "assemblyVersion": "24.1.3.0",
+            "fileVersion": "24.1.3.0"
+          }
+        }
+      },
+      "DevExpress.XtraReports.VSPackage/24.1.3.0": {
+        "runtime": {
+          "DevExpress.XtraReports.VSPackage.dll": {
+            "assemblyVersion": "24.1.3.0",
+            "fileVersion": "24.1.3.0"
+          }
+        }
+      },
+      "StockSharp.Xaml.Charting/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Xaml.Charting.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Ribbon.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Ribbon.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Drawing.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Drawing.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Pdf.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Pdf.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Pdf.v22.1.Drawing/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Pdf.v22.1.Drawing.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.DataVisualization.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.DataVisualization.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Printing.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Printing.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "Ecng.Drawing/1.0.0.0": {
+        "runtime": {
+          "Ecng.Drawing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Charting.Interfaces/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Charting.Interfaces.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Ecng.Collections/1.0.0.0": {
+        "runtime": {
+          "Ecng.Collections.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ecng.Serialization/1.0.0.0": {
+        "runtime": {
+          "Ecng.Serialization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Localization/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Localization.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Xaml/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Xaml.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "StockSharp.BusinessEntities/5.0.0.0": {
+        "runtime": {
+          "StockSharp.BusinessEntities.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Messages/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Messages.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Ecng.ComponentModel/1.0.0.0": {
+        "runtime": {
+          "Ecng.ComponentModel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ecng.Common/1.0.0.0": {
+        "runtime": {
+          "Ecng.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.Dialogs.v22.1/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.Dialogs.v22.1.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "StockSharp.Algo/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Algo.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Ecng.MathLight/1.0.0.0": {
+        "runtime": {
+          "Ecng.MathLight.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ecng.Configuration/1.0.0.0": {
+        "runtime": {
+          "Ecng.Configuration.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ecng.Reflection/1.0.0.0": {
+        "runtime": {
+          "Ecng.Reflection.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Logging/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Logging.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "DevExpress.Xpf.DocumentViewer.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Xpf.DocumentViewer.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "DevExpress.Office.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Office.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        }
+      },
+      "Nito.AsyncEx.Coordination/5.1.2.0": {
+        "runtime": {
+          "Nito.AsyncEx.Coordination.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      },
+      "Nito.AsyncEx.Tasks/5.1.2.0": {
+        "runtime": {
+          "Nito.AsyncEx.Tasks.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Ecng.Security/1.0.0.0": {
+        "runtime": {
+          "Ecng.Security.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Nito.AsyncEx.Context/5.1.2.0": {
+        "runtime": {
+          "Nito.AsyncEx.Context.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      },
+      "Ecng.Interop.Windows/1.0.0.0": {
+        "runtime": {
+          "Ecng.Interop.Windows.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ecng.Data/1.0.0.0": {
+        "runtime": {
+          "Ecng.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Configuration/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Configuration.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Ecng.Backup/1.0.0.0": {
+        "runtime": {
+          "Ecng.Backup.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ecng.Compilation/1.0.0.0": {
+        "runtime": {
+          "Ecng.Compilation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Licensing.Core/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Licensing.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Server.Core/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Server.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Ecng.Net/1.0.0.0": {
+        "runtime": {
+          "Ecng.Net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Diagram.Core/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Diagram.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "StockSharp.Licensing/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Licensing.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Ecng.SmartFormat/1.0.0.0": {
+        "runtime": {
+          "Ecng.SmartFormat.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DevExpress.Dialogs.v22.1.Core/22.1.4.0": {
+        "runtime": {
+          "DevExpress.Dialogs.v22.1.Core.dll": {
+            "assemblyVersion": "22.1.4.0",
+            "fileVersion": "22.1.4.0"
+          }
+        },
+        "resources": {
+          "ru/DevExpress.Dialogs.v22.1.Core.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "Ecng.StringSearch/1.0.0.0": {
+        "runtime": {
+          "Ecng.StringSearch.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ecng.Interop/1.0.0.0": {
+        "runtime": {
+          "Ecng.Interop.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GeneticSharp.Domain/3.1.4.0": {
+        "runtime": {
+          "GeneticSharp.Domain.dll": {
+            "assemblyVersion": "3.1.4.0",
+            "fileVersion": "3.1.4.0"
+          }
+        }
+      },
+      "GeneticSharp.Infrastructure.Framework/3.1.4.0": {
+        "runtime": {
+          "GeneticSharp.Infrastructure.Framework.dll": {
+            "assemblyVersion": "3.1.4.0",
+            "fileVersion": "3.1.4.0"
+          }
+        }
+      },
+      "Ecng.IO/1.0.0.0": {
+        "runtime": {
+          "Ecng.IO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Nito.Disposables/2.2.1.0": {
+        "runtime": {
+          "Nito.Disposables.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      },
+      "Nito.Collections.Deque/1.1.1.0": {
+        "runtime": {
+          "Nito.Collections.Deque.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      },
+      "NDde/4.0.0.0": {
+        "runtime": {
+          "NDde.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "NuGet.Configuration/6.10.0.107": {
+        "runtime": {
+          "NuGet.Configuration.dll": {
+            "assemblyVersion": "6.10.0.107",
+            "fileVersion": "6.10.0.107"
+          }
+        }
+      },
+      "StockSharp.Alerts.Interfaces/5.0.0.0": {
+        "runtime": {
+          "StockSharp.Alerts.Interfaces.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "WmiLight/6.5.2.0": {
+        "runtime": {
+          "WmiLight.dll": {
+            "assemblyVersion": "6.5.2.0",
+            "fileVersion": "6.5.2.0"
+          }
+        }
+      },
+      "Ecng.Lzma/1.0.0.0": {
+        "runtime": {
+          "Ecng.Lzma.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Specshell.WinForm.HiddenForm/2.0.0.0": {
+        "runtime": {
+          "Specshell.WinForm.HiddenForm.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "NuGet.Common/6.10.0.107": {
+        "runtime": {
+          "NuGet.Common.dll": {
+            "assemblyVersion": "6.10.0.107",
+            "fileVersion": "6.10.0.107"
+          }
+        }
+      },
+      "NuGet.Frameworks/6.10.0.107": {
+        "runtime": {
+          "NuGet.Frameworks.dll": {
+            "assemblyVersion": "6.10.0.107",
+            "fileVersion": "6.10.0.107"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevExpress.StockMarketTrader.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hqTM5628jSsQiv+HGpiq3WKBl2c8v1KZfby2J6Pr7pEPlK9waPdgEO6b8A/+/xn/yZ9ulv8HuqK71ONy2tg67A==",
+      "path": "microsoft.win32.systemevents/6.0.0",
+      "hashPath": "microsoft.win32.systemevents.6.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NfuoKUiP2nUWwKZN6twGqXioIe1zVD0RIj2t976A+czLHr2nY454RwwXs6JU9Htc6mwqL6Dn/nEL3dpVf2jOhg==",
+      "path": "system.drawing.common/6.0.0",
+      "hashPath": "system.drawing.common.6.0.0.nupkg.sha512"
+    },
+    "DevExpress.Charts.Designer.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Charts.Designer.v22.1.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Charts.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Data.Desktop.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Data.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Data.v22.1.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Mvvm.v22.1.DataModel.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Mvvm.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Printing.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Printing.v22.1.Core.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Charts.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Charts.v22.1.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Core.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Core.v22.1.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Docking.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Docking.v22.1.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Grid.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Grid.v22.1.Core.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Grid.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Grid.v22.1.Extensions/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Layout.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.LayoutControl.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.LayoutControl.v22.1.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.PropertyGrid.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.PropertyGrid.v22.1.resources/22.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Themes.Office2019Colorful.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Themes.VS2019Dark.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Themes.Win11Light.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraReports.VSPackage.2022/24.1.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.XtraReports.VSPackage/24.1.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Xaml.Charting/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Ribbon.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Drawing.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Pdf.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Pdf.v22.1.Drawing/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.DataVisualization.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Printing.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Drawing/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Charting.Interfaces/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Collections/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Serialization/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Localization/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Xaml/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.BusinessEntities/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Messages/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.ComponentModel/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Common/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.Dialogs.v22.1/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Algo/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.MathLight/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Configuration/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Reflection/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Logging/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Xpf.DocumentViewer.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Office.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nito.AsyncEx.Coordination/5.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nito.AsyncEx.Tasks/5.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Security/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nito.AsyncEx.Context/5.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Interop.Windows/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Data/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Configuration/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Backup/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Compilation/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Licensing.Core/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Server.Core/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Net/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Diagram.Core/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Licensing/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.SmartFormat/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevExpress.Dialogs.v22.1.Core/22.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.StringSearch/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Interop/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneticSharp.Domain/3.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneticSharp.Infrastructure.Framework/3.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.IO/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nito.Disposables/2.2.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nito.Collections.Deque/1.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NDde/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NuGet.Configuration/6.10.0.107": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockSharp.Alerts.Interfaces/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WmiLight/6.5.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecng.Lzma/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Specshell.WinForm.HiddenForm/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NuGet.Common/6.10.0.107": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NuGet.Frameworks/6.10.0.107": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

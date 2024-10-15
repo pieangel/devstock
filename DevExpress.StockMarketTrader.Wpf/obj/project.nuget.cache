@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oW1FIYgufxQ=",
+  "success": true,
+  "projectFilePath": "D:\\CodeName_D\\DevExpress.StockMarketTrader.Wpf\\CS\\DevExpress.StockMarketTrader.Wpf\\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiwan sung\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\shiwan sung\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\shiwan sung\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\shiwan sung\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\shiwan sung\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\shiwan sung\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.32\\microsoft.netcore.app.host.win-x86.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

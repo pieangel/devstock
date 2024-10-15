@@ -1,0 +1,282 @@
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.exe
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.dll.config
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.deps.json
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.runtimeconfig.json
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.pdb
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Charts.Designer.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Data.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Mvvm.v22.1.DataModel.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Charts.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Docking.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.LayoutControl.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.PropertyGrid.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.XtraReports.VSPackage.2022.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.XtraReports.VSPackage.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.exe
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.dll.config
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.deps.json
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.runtimeconfig.json
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.pdb
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Charts.Designer.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Data.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Mvvm.v22.1.DataModel.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Xpf.Charts.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Xpf.Core.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Xpf.Docking.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Xpf.LayoutControl.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.Xpf.PropertyGrid.v22.1.resources.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.XtraReports.VSPackage.2022.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\DebugNetCoreDesktop\DevExpress.XtraReports.VSPackage.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Themes\Shared.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\App.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\MainWindow.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\InformationPanel.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TabView.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TradeHistoryView.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OrderHistoryView.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OpenOrdersView.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OrderBookView.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TradesView.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\MarketDepthView.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\StockChartView.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\App.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\GeneratedInternalTypeHelper.g.cs
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf_MarkupCompile.cache
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf_MarkupCompile.lref
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\MainWindow.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\InformationPanel.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TabView.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TradeHistoryView.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OrderHistoryView.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OpenOrdersView.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OrderBookView.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TradesView.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\MarketDepthView.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\StockChartView.baml
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.g.resources
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.Properties.Resources.resources
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.csproj.GenerateResource.cache
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpre.7FE3F80A.Up2Date
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\refint\DevExpress.StockMarketTrader.Wpf.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.pdb
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.genruntimeconfig.cache
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\ref\DevExpress.StockMarketTrader.Wpf.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Charts.Designer.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Charts.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Data.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Mvvm.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Printing.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Charts.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Core.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Docking.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.Extensions.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Layout.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.LayoutControl.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.PropertyGrid.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Themes.Office2019Colorful.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Themes.VS2019Dark.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Themes.Win11Light.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Ribbon.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Drawing.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Printing.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.DocumentViewer.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Office.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Xaml.Charting.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Drawing.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Charting.Interfaces.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Collections.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Serialization.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Localization.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Xaml.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.BusinessEntities.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Messages.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.ComponentModel.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Common.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Dialogs.v22.1.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Algo.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.MathLight.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Configuration.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Reflection.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Logging.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.AsyncEx.Coordination.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.AsyncEx.Tasks.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Newtonsoft.Json.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Security.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.AsyncEx.Context.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Interop.Windows.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Data.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Configuration.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Backup.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Compilation.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Licensing.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Server.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Net.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Diagram.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Licensing.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.SmartFormat.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Dialogs.v22.1.Core.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.StringSearch.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Interop.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\GeneticSharp.Domain.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\GeneticSharp.Infrastructure.Framework.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.IO.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.Disposables.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.Collections.Deque.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\NDde.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\NuGet.Configuration.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Alerts.Interfaces.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\WmiLight.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Lzma.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Specshell.WinForm.HiddenForm.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\NuGet.Common.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\NuGet.Frameworks.dll
+C:\Users\Public\Documents\DevExpress Demos 22.1\Components\WPF\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\ru\DevExpress.Dialogs.v22.1.Core.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.exe
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.dll.config
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.deps.json
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.runtimeconfig.json
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.StockMarketTrader.Wpf.pdb
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Charts.Designer.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Charts.Designer.v22.1.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Charts.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Data.Desktop.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Data.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Data.v22.1.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Mvvm.v22.1.DataModel.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Mvvm.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Printing.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Printing.v22.1.Core.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Charts.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Charts.v22.1.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Core.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Core.v22.1.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Docking.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Docking.v22.1.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Grid.v22.1.Extensions.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Layout.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.LayoutControl.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.LayoutControl.v22.1.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.PropertyGrid.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.PropertyGrid.v22.1.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Themes.Office2019Colorful.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Themes.VS2019Dark.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Themes.Win11Light.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.XtraReports.VSPackage.2022.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.XtraReports.VSPackage.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Xaml.Charting.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Ribbon.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Drawing.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Pdf.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Pdf.v22.1.Drawing.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.DataVisualization.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Printing.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Drawing.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Charting.Interfaces.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Collections.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Serialization.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Localization.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Xaml.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.BusinessEntities.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Messages.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.ComponentModel.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Common.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.Dialogs.v22.1.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Algo.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.MathLight.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Configuration.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Reflection.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Logging.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Xpf.DocumentViewer.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Office.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.AsyncEx.Coordination.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.AsyncEx.Tasks.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Newtonsoft.Json.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Security.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.AsyncEx.Context.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Interop.Windows.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Data.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Configuration.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Backup.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Compilation.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Licensing.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Server.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Net.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Diagram.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Licensing.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.SmartFormat.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\DevExpress.Dialogs.v22.1.Core.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.StringSearch.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Interop.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\GeneticSharp.Domain.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\GeneticSharp.Infrastructure.Framework.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.IO.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.Disposables.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Nito.Collections.Deque.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\NDde.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\NuGet.Configuration.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\StockSharp.Alerts.Interfaces.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\WmiLight.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Ecng.Lzma.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\Specshell.WinForm.HiddenForm.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\NuGet.Common.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\NuGet.Frameworks.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\bin\ReleaseNetCoreDesktop\ru\DevExpress.Dialogs.v22.1.Core.resources.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.csproj.AssemblyReference.cache
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Themes\Shared.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\App.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\MainWindow.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\InformationPanel.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TabView.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TradeHistoryView.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OrderHistoryView.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OpenOrdersView.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OrderBookView.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TradesView.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\MarketDepthView.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\StockChartView.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\App.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\GeneratedInternalTypeHelper.g.cs
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf_MarkupCompile.cache
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf_MarkupCompile.lref
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\MainWindow.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\InformationPanel.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TabView.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TradeHistoryView.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OrderHistoryView.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OpenOrdersView.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\OrderBookView.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\TradesView.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\MarketDepthView.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\Views\StockChartView.baml
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.g.resources
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.Properties.Resources.resources
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.csproj.GenerateResource.cache
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.csproj.CoreCompileInputs.cache
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpre.7FE3F80A.Up2Date
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\refint\DevExpress.StockMarketTrader.Wpf.dll
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.pdb
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\DevExpress.StockMarketTrader.Wpf.NetCore.Desktop.genruntimeconfig.cache
+D:\CodeName_D\DevExpress.StockMarketTrader.Wpf\CS\DevExpress.StockMarketTrader.Wpf\obj.NCD\ref\DevExpress.StockMarketTrader.Wpf.dll
